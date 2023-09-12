@@ -33,7 +33,7 @@ The user can then answer the questions that are presented in the command line
 ![](logo.png) 
 
 ## Installation Process
-1. Clone the repository: [Cehura-Code Logo Generator]([https://Cehura-Code.github.io/Cehura-Code-Logo-Generator/](https://github.com/Cehura-Code/Logo-Generator/tree/main))
+1. Clone the repository: [Cehura-Code Logo Generator](https://github.com/Cehura-Code/Logo-Generator/tree/main))
 2. Install the following: 
 - Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
