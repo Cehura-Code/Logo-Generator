@@ -51,7 +51,7 @@ The user can then answer the questions that are presented in the command line
 ## What I Learned
 -Created an app that uses the command-line in order to generate a logo
 
-## License & Copyright ©
+## License
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
   
