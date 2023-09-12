@@ -7,7 +7,9 @@ The application enables users to enter inputs into a inquirer prompt in order to
 
 ## Table of Contents:
 - [Overview](#Overview)
-- [Usage Information](#Usage-Information)
+- [Usage Information](#Usage-Instructions)
+- [Screenshot Example](#Screenshot)
+- [Recordings](#Recorded-Walkthrough)
 - [Installation Process](#Installation-Process)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
@@ -26,9 +28,11 @@ Build a Node.js command-line application that takes in user inputs to generates 
 The user can then answer the questions that are presented in the command line
 5. A SVG file named "logo.svg" will be created once these steps are completed
 
-## Screenshots:
+## Screenshot:
 ### Image using Command line application
 
+## Recorded Walkthrough
+Recorded Walkthrough.mov
 ### Generated Circle Logo
 ![](logo.png) 
 
