@@ -28,7 +28,7 @@ The user can then answer the questions that are presented in the command line
 
 ## Screenshot:
 ### Image using Command line application
-![](./images/svg-logo-maker.png) 
+![](logo.png) 
 
 ## Installation Process
 1. Clone the repository: [Thomas' Object Oriented Programming SVG Logo Maker](https://Cehura-Code.github.io/Cehura-Code-Logo-Generator/)
