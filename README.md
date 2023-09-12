@@ -29,7 +29,7 @@ The user can then answer the questions that are presented in the command line
 5. A SVG file named "logo.svg" will be created once these steps are completed
 
 ## Screenshot:
-### Image using Command line application
+images/Integrated Terminal Screenshot.png
 
 ## Recorded Walkthrough
 (https://github.com/Cehura-Code/Logo-Generator/blob/main/Recorded%20Walkthrough.mov)
