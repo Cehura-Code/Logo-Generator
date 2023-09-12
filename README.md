@@ -30,7 +30,7 @@ The user can then answer the questions that are presented in the command line
 
 ## Screenshots:
 ###example image generated from integrated terminal:
-<img width="1169" alt="Generator1" src="https://github.com/Cehura-Code/Logo-Generator/134533516/518e10a8-6a9a-4f2d-bae6-4883b0f35671">
+<img width="1169" alt="Generator1" src="https://github.com/Cehura-Code/Logo-Generator/blob/main/logo.png">
 ## Recorded Walkthrough
 (https://github.com/Cehura-Code/Logo-Generator/blob/main/Recorded%20Walkthrough.mov)
 
