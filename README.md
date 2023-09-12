@@ -1,5 +1,5 @@
 # Logo-Generator
-
+Build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description:
@@ -62,15 +62,3 @@ The user can then answer the questions that are presented in the command line
 You can find me on Github at [Cehura-Code](https://github.com/Cehura-Code)! 
 Email me at b.cehura@gmail.com
 
-
-
- 
-
-
-
-
-
-
-
-# Logo-Generator
-Build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file
