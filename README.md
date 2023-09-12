@@ -28,8 +28,9 @@ Build a Node.js command-line application that takes in user inputs to generates 
 The user can then answer the questions that are presented in the command line
 5. A SVG file named "logo.svg" will be created once these steps are completed
 
-## Screenshot:
-images/Integrated Terminal Screenshot.png
+## Screenshots:
+###example image generated from integrated terminal:
+logo.png
 
 ## Recorded Walkthrough
 (https://github.com/Cehura-Code/Logo-Generator/blob/main/Recorded%20Walkthrough.mov)
