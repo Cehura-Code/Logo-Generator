@@ -32,9 +32,7 @@ The user can then answer the questions that are presented in the command line
 ### Image using Command line application
 
 ## Recorded Walkthrough
-Recorded Walkthrough.mov
-### Generated Circle Logo
-![](logo.png) 
+(https://github.com/Cehura-Code/Logo-Generator/blob/main/Recorded%20Walkthrough.mov)
 
 ## Installation Process
 1. Clone the repository: [Cehura-Code Logo Generator](https://github.com/Cehura-Code/Logo-Generator/tree/main)
