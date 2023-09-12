@@ -29,8 +29,12 @@ The user can then answer the questions that are presented in the command line
 5. A SVG file named "logo.svg" will be created once these steps are completed
 
 ## Screenshots:
-###example image generated from integrated terminal:
-<img width="1169" alt="Generator1" src="https://github.com/Cehura-Code/Logo-Generator/blob/main/logo.png">
+
+Example image generated from integrated terminal:
+<img width="1169" alt="generated-image" src="https://github.com/Cehura-Code/Logo-Generator/blob/main/logo.png">
+
+This is what the integrated terminal should look like:
+<img width="1169" alt="terminal" src="https://github.com/Cehura-Code/Logo-Generator/blob/main/images/Integrated%20Terminal%20Screenshot.png">
 ## Recorded Walkthrough
 (https://github.com/Cehura-Code/Logo-Generator/blob/main/Recorded%20Walkthrough.mov)
 
